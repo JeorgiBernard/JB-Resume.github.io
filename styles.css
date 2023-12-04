@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bg{
+    background-color: #9297c4;
+}
+
+.navbar{
+    padding:0;
+}
+
+.navbar-toggler:focus {
+    box-shadow: none;
+}
+
+@media(max-width:767px) {
+    .ul-bg {
+        background-color: #2c666e;
+    }
+}
+
+nav .nav-item a:hover{
+    color: #b8e0d2 !important
+}
