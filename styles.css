@@ -9,6 +9,12 @@
     background-color: #b8e0d2;
 }
 
+@media(max-width:767px) {
+    .mainbg {
+        background-color: #b8e0d2;
+    }
+}
+
 .bg{
     background-color: #9297c4;
 }
