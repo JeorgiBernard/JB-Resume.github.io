@@ -5,6 +5,14 @@
     font-family: 'Josefin Sans', sans-serif;
 }
 
+body {
+    padding-top: 30rem; /* Adjust this value based on your navbar height */
+}
+
+section {
+    scroll-margin-top: 5rem; /* Adjust this value based on your navbar height */
+}
+
 .mainbg {
     background-color: #b8e0d2;
 }
@@ -36,6 +44,7 @@
 nav .nav-item a:hover{
     color: #2c666e !important
 }
+
 
 
 .animated-text {
