@@ -37,3 +37,12 @@ nav .nav-item a:hover{
     color: #2c666e !important
 }
 
+
+.animated-text {
+    transition: transform 1s ease-in-out;
+  }
+
+  /* Scale up the text on hover */
+  .animated-text:hover {
+    transform: rotate(360deg);
+  }
