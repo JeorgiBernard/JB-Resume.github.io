@@ -42,7 +42,12 @@ nav .nav-item a:hover{
     transition: transform 1s ease-in-out;
   }
 
-  /* Scale up the text on hover */
+ 
   .animated-text:hover {
     transform: rotate(360deg);
+  }
+
+  .bg-hover:hover {
+    background-color: #694966;
+    color: white;
   }
